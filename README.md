@@ -11,7 +11,7 @@ I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Goog
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://x.com/AbdallahElsobk4)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/abdallah-elsobky-5150701a6/)
-  <!-- [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd) -->
+  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/profile.php?id=100014756283139)
   <!-- [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd) -->
   <!-- [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://tarekalabd.com)
   [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net) -->
