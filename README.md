@@ -12,7 +12,8 @@ I'm a software engineer student.
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/abdallah-elsobky-5150701a6/)
   [!["Follow me on X"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://x.com/AbdallahElsobk4)
   [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/profile.php?id=100014756283139)
-  [!["Facebook"](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://www.facebook.com/profile.php?id=100014756283139)
+  [!["Facebook"](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@Abdallah_Elsobky)
+  [!["Facebook"](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome&labelColor=black)](https://abdullah-elsobky.web.app)
   
 
   
