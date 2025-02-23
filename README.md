@@ -42,6 +42,8 @@ I'm a software engineer student.
 ### Github Stats
 [![Abdallah's Github Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Elsobky&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Elsobky&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Elsobky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ![Snake animation](https://github.com/Abdallah-Elsobky/Abdallah-Elsobky/blob/output/snake.svg)
