@@ -20,3 +20,8 @@ I'm a software engineer student.
 
 ### Github Stats
 [![Abdallah's Github Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-Elsobky&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
+
+
+<img src="https://raw.githubusercontent.com/Abdallah-Elsobky/Abdallah-Elsobky/output/snake.svg" alt="Snake animation" />
+
+###
