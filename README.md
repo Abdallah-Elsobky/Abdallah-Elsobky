@@ -71,7 +71,7 @@ I'm a software engineer student.
 
 ### 🛠️ Technologies & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,github,git,sqlite,mysql,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,github,git,sqlite,mysql,compose,postman,firebase" />
 </p>
 
 ---
