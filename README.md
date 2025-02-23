@@ -52,7 +52,7 @@ I'm a software engineer student.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallah-Elsobky&theme=github-dark&hide_border=true" />
 </p> -->
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
+<img align="right" height="150" src="https://app.lottiefiles.com/animation/2c0599c0-03d2-4c34-a195-5e7529d5353e"  />
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Elsobky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
 
