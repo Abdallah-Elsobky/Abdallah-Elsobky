@@ -53,6 +53,7 @@ I'm a software engineer student.
 </p> -->
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Elsobky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
+<img align="right" height="150" src="https://github.com/user-attachments/assets/40cdd27a-d227-4a83-b53b-7d16a93ab8ff"  />
 
 [![Snake animation](https://github.com/Abdallah-Elsobky/Abdallah-Elsobky/blob/output/snake.svg)](https://github.com/Abdallah-Elsobky)
 
