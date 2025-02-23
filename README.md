@@ -17,7 +17,7 @@ I'm a software engineer student.
   <img width="12" />
   [!["Youtube"](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/@Abdallah_Elsobky)
   <img width="12" />
-  [!["Follow me on X"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://x.com/AbdallahElsobk4)
+  [!["Follow me on X"](https://img.shields.io/twitter/follow/AbdallahElsobk4?label=Follow%20me)](https://x.com/AbdallahElsobk4)
   
 
 ### 🛠️ Technologies & Tools 
