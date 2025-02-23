@@ -54,7 +54,7 @@ I'm a software engineer student.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Elsobky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Abdallah-Elsobky)
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/b54a7ed3-da02-4a2c-874b-c4bdbb49691d"  />
 
 
 [![Snake animation](https://github.com/Abdallah-Elsobky/Abdallah-Elsobky/blob/output/snake.svg)](https://github.com/Abdallah-Elsobky)
