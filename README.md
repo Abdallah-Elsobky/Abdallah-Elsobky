@@ -1,4 +1,7 @@
-<img align="right" height="300" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
+<a href="https://www.linkedin.com/in/abdallah-elsobky-5150701a6/">
+    <img align="right" height="300" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d" />
+</a>
+
 ### Hi there 👋
 
 I'm a software engineer student.
