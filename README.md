@@ -1,5 +1,5 @@
+<img align="right" height="300" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
 ### Hi there 👋
-<img align="right" height="350" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
 
 I'm a software engineer student.
 
