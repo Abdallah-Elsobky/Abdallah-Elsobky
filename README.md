@@ -1,8 +1,7 @@
 ### Hi there 👋
+<img align="right" height="350" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
 
 I'm a software engineer student.
-<img align="right" height="250" src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d"  />
-
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about mobile and backend development.
