@@ -4,12 +4,14 @@
 
 ### Hi there 👋
 
-I'm a software engineer student.
+I'm a Software Engineering student with a passion for Android development.
 
-- 🔭 I’m currently working on improving my skills as a software engineer.
-- 🌱 I’m currently curious about mobile and backend development.
-- 👯 I’m looking to collaborate on open source projects.
-<!-- 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [C++](https://www.cplusplus.com/), [Python](https://www.python.org/).-->
+🔭 I’m currently focused on building modern, user-friendly Android apps using Kotlin.
+
+🌱 I’m exploring advanced topics in mobile architecture, performance optimization, and backend integration.
+
+👯 I’m looking to collaborate on open-source Android projects and contribute to impactful mobile solutions.
+
 - 📫 How to reach me:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elsobky-5150701a6/)
