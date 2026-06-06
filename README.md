@@ -3,7 +3,7 @@
   <tr>
     <td width="70%" valign="top">
       <h1>Hi there 👋, I'm Abdallah Elsobky</h1>
-      <p><strong>Software Engineering Student & Dedicated Android Developer</strong></p>
+      <p><strong>Software Engineering & Dedicated Android Developer</strong></p>
       <p>
         I specialize in crafting high-performance, responsive, and visually stunning Android applications. 
         With a deep focus on <b>Kotlin</b>, <b>Jetpack Compose</b>, and modern architectural principles, I strive to 
@@ -133,22 +133,20 @@ Here are some of the Android applications I’ve developed, focused on scalable 
 A cohesive overview of my coding activity and contributions, themed to match the Android & Kotlin design guidelines.
 
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdallah-Elsobky&theme=github_dark" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdallah-Elsobky&theme=github_dark" 
-        />
-      </td>
-    </tr>
-  </table>
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+ <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdallah-Elsobky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  />
+  
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=Abdallah-Elsobky&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Abdallah-Elsobky&theme=dark&hide_border=false"
+  />
 </p>
+
 
 
 
@@ -160,9 +158,9 @@ A cohesive overview of my coding activity and contributions, themed to match the
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdallah-Elsobky">
+  <!-- <a href="https://github.com/Abdallah-Elsobky">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdallah-Elsobky&theme=github_dark" alt="Profile Summary Details" />
   </a>
-  <br/>
+  <br/> -->
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdallah-Elsobky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 </p>
