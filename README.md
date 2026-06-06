@@ -95,7 +95,7 @@
       <br/><br/>
       <ul>
         <li><b>Networking:</b> Retrofit, Ktor Client, OkHttp, REST APIs</li>
-        <li><b>Firebase Ecosystem:</b> Auth, Firestore, Realtime Database, Cloud Messaging (FCM), Crashlytics, Remote Config</li>
+        <li><b>Firebase Ecosystem:</b> Auth, Firestore, Realtime Database, Crashlytics, Remote Config</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -108,7 +108,7 @@
       <br/><br/>
       <ul>
         <li><b>Version Control & CI/CD:</b> Git, GitHub Actions, Gradle (Kotlin DSL)</li>
-        <li><b>Testing:</b> JUnit, Mockk, Espresso, Turbine</li>
+        <li><b>Testing:</b> JUnit, Mockk</li>
       </ul>
     </td>
   </tr>
@@ -116,27 +116,41 @@
 
 ---
 
-### 🚀 Featured Projects
-Here are some of the key Android applications I've developed. *(Feel free to customize this table with your specific projects)*
+## 🚀 Featured Projects
 
-| Project Name | Key Features | Technologies Used | Repository & Demo |
-| :--- | :--- | :--- | :--- |
-| **Project Name 1** | Briefly explain what it does (e.g., Offline-first task manager with weather syncing) | `Kotlin`, `Compose`, `MVVM`, `Hilt`, `Room`, `Retrofit` | [Repo 🔗](https://github.com/Abdallah-Elsobky) / [Demo 🎥](https://github.com/Abdallah-Elsobky) |
-| **Project Name 2** | Briefly explain what it does (e.g., Real-time chat app with push notifications) | `Kotlin`, `Compose`, `MVI`, `Firebase Auth/Firestore`, `Coroutines` | [Repo 🔗](https://github.com/Abdallah-Elsobky) / [Demo 🎥](https://github.com/Abdallah-Elsobky) |
+Here are some of the Android applications I’ve developed, focused on scalable architecture, modern Android development, and real-world problem solving.
+
+| Project Name                              | Description                                                                                                                                             | Technologies Used                                                                                                             | Repository                                       |
+| :---------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| **Cargo — Delivery & Transport Platform** | Full-stack logistics platform connecting customers and drivers with live shipment tracking, QR-based package verification, and real-time communication. | `Kotlin`, `Compose Multiplatform`, `KMP`, `MVVM/MVI`, `Clean Architecture`, `Ktor`, `Coroutines`, `Flow`, `Koin`, `REST APIs` | [GitHub 🔗](https://github.com/Cargo-Org) |
+| **Tempo — Weather Forecasting App**       | Weather forecasting application providing real-time weather updates, location-based search, and responsive UI for a seamless user experience.           | `Kotlin`, `Jetpack Compose`, `WorkManager`, `MVVM`, `Retrofit`, `Coroutines`, `Flow`, `REST APIs`                             | [GitHub 🔗](https://github.com/Abdallah-Elsobky/Tempo) |
+| **Foodo — Food Planner App**              | Meal-planning Android application with offline storage and API-driven meal management to help users organize daily meals efficiently.                   | `Java`, `MVP`, `Room Database`, `Retrofit`, `RecyclerView`, `REST APIs`                                                       | [GitHub 🔗](https://github.com/Abdallah-Elsobky/Foodo) |
+
 
 ---
 
 ### 📊 GitHub Analytics
 A cohesive overview of my coding activity and contributions, themed to match the Android & Kotlin design guidelines.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-Elsobky&show_icons=true&theme=dark&bg_color=0d1117&title_color=3ddc84&icon_color=3ddc84&text_color=c9d1d9&border_color=30363d&count_private=true" alt="Abdallah's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-Elsobky&layout=compact&theme=dark&bg_color=0d1117&title_color=3ddc84&icon_color=3ddc84&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" height="150" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-Elsobky&theme=dark&background=0d1117&ring=3ddc84&fire=3ddc84&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=false&border=30363d" alt="Streak Stats" />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdallah-Elsobky&theme=github_dark" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdallah-Elsobky&theme=github_dark" 
+        />
+      </td>
+    </tr>
+  </table>
 </p>
+
+
 
 <!-- Snake animation for visual activity -->
 <p align="center">
@@ -150,7 +164,5 @@ A cohesive overview of my coding activity and contributions, themed to match the
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdallah-Elsobky&theme=github_dark" alt="Profile Summary Details" />
   </a>
   <br/>
-  <a href="https://visitcount.itsvg.in/api?id=Abdallah-Elsobky&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Abdallah-Elsobky&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdallah-Elsobky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 </p>
