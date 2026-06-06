@@ -17,7 +17,7 @@
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://www.linkedin.com/in/abdallah-elsobky-5150701a6/">
-        <img src="https://github.com/user-attachments/assets/75069a18-cda4-43c1-a571-57b3a6a2b89d" width="170" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Abdallah Elsobky Profile" />
+        <img src="https://i.gifer.com/2hk9.gif" width="170"  alt="Abdallah Elsobky Profile" />
       </a>
     </td>
   </tr>
