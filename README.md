@@ -134,7 +134,7 @@ A cohesive overview of my coding activity and contributions, themed to match the
 
 
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
  <img 
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdallah-Elsobky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
   />
