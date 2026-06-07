@@ -70,6 +70,7 @@
         <li><b>Languages:</b> Kotlin, Java</li>
         <li><b>UI Frameworks:</b> Jetpack Compose, XML View System</li>
         <li><b>Design Systems:</b> Material Design 3 (M3), custom UI design</li>
+        <li><b>Dependency Injection:</b> Hilt, Koin</li>
       </ul>
     </td>
     <td valign="top" width="50%">
