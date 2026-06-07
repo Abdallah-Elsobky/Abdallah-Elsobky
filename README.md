@@ -67,7 +67,7 @@
       <a href="https://www.java.com/" target="_blank"><img src="https://github.com/user-attachments/assets/1d705d8f-e1f6-47f0-a0ec-920d4a6d85b4" height="40" alt="Java logo" title="Java" /></a>
       <br/><br/>
       <ul>
-        <li><b>Languages:</b> Kotlin, Java, SQL</li>
+        <li><b>Languages:</b> Kotlin, Java</li>
         <li><b>UI Frameworks:</b> Jetpack Compose, XML View System</li>
         <li><b>Design Systems:</b> Material Design 3 (M3), custom UI design</li>
       </ul>
