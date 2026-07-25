@@ -5,9 +5,7 @@
       <h1>Hi there 👋, I'm Abdallah Elsobky</h1>
       <p><strong>Software Engineering & Dedicated Android Developer</strong></p>
       <p>
-        I specialize in crafting high-performance, responsive, and visually stunning Android applications. 
-        With a deep focus on <b>Kotlin</b>, <b>Jetpack Compose</b>, and modern architectural principles, I strive to 
-        build applications that deliver exceptional user experiences and maintainable, clean codebases.
+        Android Developer specializing in <b>Kotlin</b>, <b>Jetpack Compose</b>, and modern Android architecture. I enjoy building scalable, high-performance mobile applications with             clean, maintainable code, while prioritizing performance, usability, and long-term maintainability.
       </p>
       <p>
         🔭 <b>Current Focus:</b> Designing modular Android architectures, implementing offline-first syncing patterns, and optimizing Compose UI rendering performance.<br/>
